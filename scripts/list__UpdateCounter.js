@@ -5,6 +5,12 @@ export function updateCounter() {
   counter.textContent = `${count} despesa${count > 1 ? 's' : ''}`;
 }
 
-document.onsubmit = () => {
+// Atualiza automaticamente sempre que a lista for alterada
+const observer = new MutationObserver(() => {
   updateCounter();
-};
+});
+
+observer.observe(list, { childList: true });
+
+// Atualiza ao carregar a página
+updateCounter();
