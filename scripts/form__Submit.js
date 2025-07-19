@@ -9,8 +9,7 @@ export function handleSubmit() {
     // expense.value = ''
     // category.value = ''
     // amount.value = ''
-    
-    updateCounter()
+  
     expense.focus() 
   });
 }
