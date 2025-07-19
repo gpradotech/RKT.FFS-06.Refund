@@ -1,5 +1,4 @@
 import { form, expense, category, amount } from './elements.js';
-import { updateCounter } from './list__UpdateCounter.js';
 
 // Previne o comportamento padrão do formulário
 export function handleSubmit() {
