@@ -5,9 +5,9 @@ export function handleSubmit() {
   form.addEventListener('submit', (event) => {
     event.preventDefault();
     
-    // expense.value = ''
-    // category.value = ''
-    // amount.value = ''
+    expense.value = ''
+    category.value = ''
+    amount.value = ''
   
     expense.focus() 
   });
