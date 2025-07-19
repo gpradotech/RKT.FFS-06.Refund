@@ -1,4 +1,4 @@
-import { form, expense, category, amount } from './elements.js';
+import { form, expense } from './elements.js';
 
 // Previne o comportamento padrão do formulário
 export function handleSubmit() {
