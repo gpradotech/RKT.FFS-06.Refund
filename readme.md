@@ -28,3 +28,5 @@ Neste projeto foram desenvolvidas soluções em <strong>HTML</strong> e <strong>
 
 ## 🔖 Layout
 Desenvolvido por [Millena Martins](https://www.linkedin.com/in/millenamartins/), Product Designer na Rocketseat, você também pode acessar o [layout do projeto](https://www.figma.com/design/YTV6Tj8IyiFCAkMA6wk0BV/Sistema-de-reembolso?node-id=0-1&t=YI6brsz3Wdk4d2um-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/YTV6Tj8IyiFCAkMA6wk0BV/Sistema-de-reembolso?page-id=3%3A376&node-id=1119-1268&viewport=20%2C246%2C0.37&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1119%3A1268&embed-host=share" allowfullscreen></iframe>
